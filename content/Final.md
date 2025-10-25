@@ -4,7 +4,7 @@ tags: [hw1, Arch 249]
 ---
 
 # Objective
-This project wants to extend the Experiential Design Schema framework into a VR-based recognition system that translates text-based schemas into visual and embodied understanding.
+This project builds upon Prof. Gail Brager's Experiential Design Schema framework, creating a VR proof-of-concept that demonstrates how 2D documentation could be translated into immersive 3D environments. A mock-up AI agent illustrates the potential for recognizing and explaining experiential design schemas through embodied spatial exploration.
 
 # Mid-point Check
 Originally, I wanted to create a VR prototype that can recognize only Experiential Daylighting Schemas: Scintillating Sun, Lightrooms, Light and Dark Procession. However, I found a great ready-to-use scene online and it offers a place to showcase various experiential schemas. In the mid-point check, I tried to display several of them:
