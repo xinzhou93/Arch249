@@ -4,7 +4,7 @@ tags: [hw1, Arch 249]
 ---
 
 # Objective
-This project wants to extend the Experiential Design Schema framework into a VR-based recognition system that translates design phenomena into visual and embodied understanding.
+This project wants to extend the Experiential Design Schema framework into a VR-based recognition system that translates text-based schemas into visual and embodied understanding.
 
 # Mid-point Check
 Originally, I wanted to create a VR prototype that can recognize only Experiential Daylighting Schemas: Scintillating Sun, Lightrooms, Light and Dark Procession. However, I found a great ready-to-use scene online and it offers a place to showcase various experiential schemas. In the mid-point check, I tried to display several of them:
@@ -29,6 +29,7 @@ In addition to the lobby area I am looking at, this asset includes  individual b
 - Improve HIGHLIGHT of architectural elements to respond to the specific schema.
 - Create a UI interface to document the existing schemas.
 - Add more design schemas.
+- Add the Biophilic Patterns framework if necessary
 
 ## Demo
 
