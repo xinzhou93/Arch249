@@ -15,7 +15,7 @@ Originally, I wanted to create a VR prototype that can recognize only Experienti
 
 A scripted mock AI recognizes and labels these schemas. When a schema is identified, the system overlays interpretive text and real-time voice feedback, simulating how VR describes specific experiences.
 
-Right now the *HIGHLIGHT* feature does not work well except for the Fans First schema using emissive glow. The goal of this system is to connect the architectural elements to the design schemas.
+Right now the *HIGHLIGHT* feature does not work well except for the Fans First schema using the emissive glow. The goal of this system is to connect the architectural elements to the design schemas.
 - For Phototropic Catenation, I can also visualize the *circulation path* from the entrance to the current location since this schema emphasizes a process, not a fixed point.
 - For Pocket of Shadows, I want to highlight the circle walls and ceilings that creates a sheltered space.
 
